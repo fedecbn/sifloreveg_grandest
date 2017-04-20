@@ -19,7 +19,7 @@ doctrine:
                 driver:   pdo_pgsql
                 host:     94.23.218.10
                 port:     5432
-                dbname:   siflore_data_temp
+                dbname:   siflore_data_grandest
                 user:     lecteur_masao
                 password: masao_2013
                 charset:  UTF8
